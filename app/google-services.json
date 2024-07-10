@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "602562945323",
+    "project_id": "findbankapp",
+    "storage_bucket": "findbankapp.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:602562945323:android:035fea323919fb6b56256e",
+        "android_client_info": {
+          "package_name": "com.bahadireray.findbankapp"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDp33zTITiWK0Baet9bz20olQjH1xNfusQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
